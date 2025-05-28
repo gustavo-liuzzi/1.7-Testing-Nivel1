@@ -3,7 +3,7 @@
     "description": "PHP Basics - Ejercicio 5 con TDD",
     "autoload": {
         "psr-4": {
-            "Gliuz\\Ejercicio2\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
