@@ -1,0 +1,18 @@
+{
+    "name": "gliuz/ejercicio2",
+    "description": "PHP Basics - Ejercicio 5 con TDD",
+    "autoload": {
+        "psr-4": {
+            "Gliuz\\Ejercicio2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo A. Liuzzi",
+            "email": "gustavo.liuzzi@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
