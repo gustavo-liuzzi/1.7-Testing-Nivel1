@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="GradeEvaluatorTest" file="C:\Users\gliuz\XAMPP\htdocs\Sprint1\S107\ejercicio2\tests\GradeEvaluatorTest.php" tests="5" assertions="14" errors="0" failures="0" skipped="0" time="0.003509">
-    <testcase name="testIsPrimeraDivision" file="C:\Users\gliuz\XAMPP\htdocs\Sprint1\S107\ejercicio2\tests\GradeEvaluatorTest.php" line="7" class="GradeEvaluatorTest" classname="GradeEvaluatorTest" assertions="3" time="0.002928"/>
-    <testcase name="testIsSegundaDivision" file="C:\Users\gliuz\XAMPP\htdocs\Sprint1\S107\ejercicio2\tests\GradeEvaluatorTest.php" line="18" class="GradeEvaluatorTest" classname="GradeEvaluatorTest" assertions="3" time="0.000154"/>
-    <testcase name="testIsTerceraDivision" file="C:\Users\gliuz\XAMPP\htdocs\Sprint1\S107\ejercicio2\tests\GradeEvaluatorTest.php" line="29" class="GradeEvaluatorTest" classname="GradeEvaluatorTest" assertions="3" time="0.000127"/>
-    <testcase name="testIsSuspender" file="C:\Users\gliuz\XAMPP\htdocs\Sprint1\S107\ejercicio2\tests\GradeEvaluatorTest.php" line="41" class="GradeEvaluatorTest" classname="GradeEvaluatorTest" assertions="2" time="0.000174"/>
-    <testcase name="testIsNotaFueraDeRango" file="C:\Users\gliuz\XAMPP\htdocs\Sprint1\S107\ejercicio2\tests\GradeEvaluatorTest.php" line="49" class="GradeEvaluatorTest" classname="GradeEvaluatorTest" assertions="3" time="0.000125"/>
+  <testsuite name="GradeTest" file="C:\Users\gliuz\XAMPP\htdocs\Sprint1\S107\ejercicio2\tests\GradeTest.php" tests="2" assertions="12" errors="0" failures="0" skipped="0" time="0.003465">
+    <testcase name="testClasificadorDeNotas" file="C:\Users\gliuz\XAMPP\htdocs\Sprint1\S107\ejercicio2\tests\GradeTest.php" line="8" class="GradeTest" classname="GradeTest" assertions="6" time="0.003300"/>
+    <testcase name="testConversorDeNotas" file="C:\Users\gliuz\XAMPP\htdocs\Sprint1\S107\ejercicio2\tests\GradeTest.php" line="29" class="GradeTest" classname="GradeTest" assertions="6" time="0.000165"/>
   </testsuite>
 </testsuites>
